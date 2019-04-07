@@ -1,1 +1,0 @@
-## Moje prjrkty z django
